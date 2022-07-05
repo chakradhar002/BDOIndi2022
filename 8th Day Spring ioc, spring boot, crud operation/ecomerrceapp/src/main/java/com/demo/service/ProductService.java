@@ -10,9 +10,9 @@ public interface ProductService {
 	
 	//Product updateProdutBy(Product product,long id) ;
 	
-	// Product getProdutById(long id) ;
+     Product getProdutById(long id) ;
 	
-	// List<Product> getListOfProduct();
+	List<Product> getListOfProduct();
 	
 	//  void delById();
 	
